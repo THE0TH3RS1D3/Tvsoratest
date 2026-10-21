@@ -1,0 +1,18 @@
+{
+  "sourceName": "TVids",
+  "iconUrl": "https://www.tvids.to/favicon.png",
+  "author": {
+    "name": "Deepseek",
+    "icon": "https://avatars.githubusercontent.com/u/100066266?v=4"
+  },
+  "version": "1.0.0",
+  "language": "Multi",
+  "streamType": "MP4/HLS",
+  "quality": "1080p",
+  "baseUrl": "https://www.tvids.to",
+  "searchBaseUrl": "https://www.tvids.to/search?q=",
+  "scriptUrl": "https://raw.githubusercontent.com/THE0TH3RS1D3/Tvsoratest/refs/heads/main/tvids.js",
+  "type": "shows/movies/anime",
+  "asyncJS": true,
+  "settings": false
+}
